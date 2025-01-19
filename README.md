@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, English, Japanese, sports
 - 🌱 I’m currently learning anything about programming
 - 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me: duythang23092002@gmail.com
+- 📫 How to reach me: thangdevhaui@gmail.com
 
 <!---
 thangnghiem2309/thangnghiem2309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
